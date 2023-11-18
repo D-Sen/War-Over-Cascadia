@@ -22,9 +22,6 @@ The map~area selection will not function correctly when the map size is less tha
 
 ## Getting Started:
 
-Direct link to the game - 
-[https://d-sen.github.io/proj1-woc/](https://d-sen.github.io/proj1-woc/)
-
 To play the game, load the provided URL into a browser window. Once loaded the player is instructed to pick a location on the map by hovering the mouse pointer over  several pre-chosen areas. The available areas are listed in the left side 'instructional' column of the screen in the beginning of the game. When the player hovers the mouse pointer over any of these areas, a red border will appear to show what areas are selectable. Left clicking one of these 'areas' will encircle the area in red and provide a description of the area in the left informational column, and the "BATTLE" button will become clickable. At this point, click on "BATTLE" to execute the 'War' card game. This process is automated behind the scenes and the result will be displayed. Just like true 'War', card loss or gain is cumlative. The players' card appears on the left, and the foes' on the right.
 
 If a true 'War' is needed, the value of the three face down cards will appear above the final 'War' card (The original card that provokes the 'War' is NOT displayed, but it is considered in the final cumlative results). Only one battle may take place per area; after a VICTORY or DEFEAT, select another area and attempt a battle there. Selecting a previous area where a 'battle' took place will not allow a subsequent 'War' at that location; and will only display a message relating to the previous 'War' result.
