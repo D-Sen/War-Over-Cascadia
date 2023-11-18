@@ -2,7 +2,7 @@
 
 ### by: Domonic Senesi
 
-### Made for General Assembly Full Stack SEI 1212 Boot Camp
+**Made for General Assembly Full Stack SEI 1212 Boot Camp**
 
 ![Screenshot](https://github.com/D-Sen/proj1-woc/blob/main/images/screenshot.png)
 
