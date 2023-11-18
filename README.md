@@ -1,7 +1,8 @@
 # War Over Cascadia
 
 ### by: Domonic Senesi
-### for SEI1212
+
+###Made for General Assembly Full Stack SEI 1212 Boot Camp
 
 ![Screenshot](https://github.com/D-Sen/proj1-woc/blob/main/images/screenshot.png)
 
